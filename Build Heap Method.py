@@ -1,6 +1,6 @@
 # Name: Brent Porter
 # GitHub ID: eporter2maryville
-# Assignment: 6.1 Binary Heap Tree One at a Time
+# Assignment: 6.2 Build Heap Method
 
 from random import *
 
